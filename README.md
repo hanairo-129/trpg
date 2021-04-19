@@ -6,8 +6,8 @@
 
 | Column   | Type    | Options                  |
 | ---------| ------- | ------------------------ |
-| email    | string  | unique:true, null: false |　null: false, default: ""
-| password | string  | null: false              |　null: false, default: ""
+| email    | string  | unique:true, null: false | null: false, default: ""
+| password | string  | null: false              | null: false, default: ""
 | nickname | string  | null: false              | #ニックネーム
 
 ### Association
